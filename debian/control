@@ -1,0 +1,12 @@
+Source: ros-groovy-pcl-conversions
+Section: misc
+Priority: extra
+Maintainer: "William Woodall <william@osrfoundation.org>"
+Build-Depends: debhelper (>= 7.0.50~), ros-groovy-catkin, ros-groovy-pcl (<< 1.7.0), ros-groovy-pcl-msgs, ros-groovy-roscpp, ros-groovy-sensor-msgs, ros-groovy-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-groovy-pcl-conversions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-pcl (<< 1.7.0), ros-groovy-pcl-msgs, ros-groovy-roscpp, ros-groovy-sensor-msgs, ros-groovy-std-msgs
+Description: Provides conversions from PCL data types and ROS message types
