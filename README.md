@@ -1,3 +1,22 @@
+## pcl_conversions - 0.1.5-0
+
+User `william@dosa` released the packages in the `pcl_conversions` repository by running `/usr/local/bin/bloom-release -r hydro -t hydro pcl_conversions` on `Tue, 27 Aug 2013 19:21:45 -0000`
+
+The `pcl_conversions` package was released.
+
+Version of package(s) in repository `pcl_conversions`:
+- rosdistro version: `0.1.4-0`
+- old version: `0.1.4-0`
+- new version: `0.1.5-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.13`
+- vcstools version: `0.1.31`
+
+
 ## pcl_conversions - 0.0.1-0
 
 User `william@dosa` released the packages in the `pcl_conversions` repository by running `/usr/local/bin/bloom-release -r groovy -t groovy -e pcl_conversions` on `Thu, 18 Jul 2013 22:03:07 -0000`
