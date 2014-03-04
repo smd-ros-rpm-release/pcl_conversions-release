@@ -1,3 +1,22 @@
+## pcl_conversions (indigo) - 0.1.5-0
+
+User `william@dosa.local` released the packages in the `pcl_conversions` repository into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo pcl_conversions -n` on `Tue, 04 Mar 2014 03:50:33 -0000`
+
+The `pcl_conversions` package was released.
+
+Version of package(s) in repository `pcl_conversions`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.5-0`
+
+Versions of tools used:
+- bloom version: `0.5.1`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## pcl_conversions - 0.1.5-0
 
 User `william@dosa` released the packages in the `pcl_conversions` repository by running `/usr/local/bin/bloom-release -r hydro -t hydro pcl_conversions` on `Tue, 27 Aug 2013 19:21:45 -0000`
