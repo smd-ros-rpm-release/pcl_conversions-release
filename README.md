@@ -1,3 +1,22 @@
+## pcl_conversions (hydro) - 0.1.6-0
+
+The packages in the `pcl_conversions` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release -r hydro -t hydro pcl_conversions` on `Mon, 28 Apr 2014 07:04:15 -0000`
+
+The `pcl_conversions` package was released.
+
+Version of package(s) in repository `pcl_conversions`:
+- rosdistro version: `0.1.5-0`
+- old version: `0.1.5-0`
+- new version: `0.1.6-0`
+
+Versions of tools used:
+- bloom version: `0.5.4`
+- catkin_pkg version: `0.2.1`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## pcl_conversions (indigo) - 0.2.0-0
 
 User `paul@asblab-paulpc` released the packages in the `pcl_conversions` repository into the `indigo` distro by running `/usr/bin/bloom-release pcl_conversions --track indigo --rosdistro indigo --edit` on `Thu, 10 Apr 2014 14:38:04 -0000`
