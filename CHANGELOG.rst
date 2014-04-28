@@ -2,13 +2,11 @@
 Changelog for package pcl_conversions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.0 (2014-04-10)
+0.1.6 (2014-04-28)
 ------------------
-* Added conversions for stamp types
-* update maintainer info, add eigen dependency
-* fix Eigen dependency
 * Make pcl_conversions run_depend on libpcl-all-dev
-* Contributors: Brice Rebsamen, Paul Bovbel, Scott K Logan, William Woodall
+  When downstream projects build against pcl_conversions, they need the pcl headers provided by libpcl-all-dev.
+* Contributors: Scott K Logan, William Woodall
 
 0.1.5 (2013-08-27)
 ------------------
